@@ -2,6 +2,7 @@
 _site
 .sass-cache
 # Ignore Emacs autosaves of older versions
+*.*~
 **/*~
 # Ignore Emacs auto rescue files
 **/#*#

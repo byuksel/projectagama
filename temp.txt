@@ -1,0 +1,6 @@
+
+            <area alt="" title="" href="/index.html" shape="rect" coords="38,35,404,63" />
+            <area alt="" title="" href="Website%20Storyboard.2/Website%20Storyboard.2.htm" shape="rect" coords="234,105,365,131" />
+            <area alt="" title="" href="#" shape="rect" coords="377,103,496,131" />
+            <area alt="" title="" href="#" shape="rect" coords="512,105,676,131" />
+            <area alt="" title="" href="#" shape="rect" coords="691,104,891,129" />

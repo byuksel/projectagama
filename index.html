@@ -22,11 +22,24 @@
     display:table-cell;
     vertical-align:middle;
     }
+    img.map, map area{
+    outline: none;
+    }
+    
   </style>
   </head>
   <body>
     <div class="container">
-      <div class="begin"><a href="/"><img src="images/Banner_v2.gif"></a></div>
+      <div class="begin">
+          <img src="images/Banner_v2.gif" alt="" usemap="#Map" hidefocus="true"/>
+          <map name="Map" id="Map">
+            <area alt="" title="" href="/index.html" shape="rect" coords="38,35,404,63" />
+            <area alt="" title="" href="#" shape="rect" coords="234,105,365,131" />
+            <area alt="" title="" href="#" shape="rect" coords="377,103,496,131" />
+            <area alt="" title="" href="#" shape="rect" coords="512,105,676,131" />
+            <area alt="" title="" href="#" shape="rect" coords="691,104,891,129" />
+          </map>
+      </div>
     </div>
   </body>
 </html>

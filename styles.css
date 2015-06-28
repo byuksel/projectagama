@@ -1,0 +1,13 @@
+body, html{
+    display:table;
+    height:100%;
+    width:100%;
+}
+.container{
+    display:table-cell;
+    vertical-align:middle;
+}
+#page_1 {
+    position:relative; overflow: hidden;margin: 67px 0px 63px 96px;padding: 0px;border: none;width: 1214px;height: 853px;
+    margin: 0 auto;
+}

@@ -11,3 +11,6 @@ body, html{
     position:relative; overflow: hidden;margin: 67px 0px 63px 96px;padding: 0px;border: none;width: 1214px;height: 853px;
     margin: 0 auto;
 }
+.ft1 a{font: 24px 'Arial';color: #969696;line-height: 27px; text-decoration:none;}
+
+.ft5 a{font: 19px 'Arial';color: #969696;margin-left: 4px;line-height: 22px; text-decoration:none;}

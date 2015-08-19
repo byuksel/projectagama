@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -42,9 +42,12 @@ h6 {
 }
 
 .intro-message > h1 {
+    color: black;
+    font-weight: 200;
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
+
 }
 
 .intro-divider {
@@ -54,6 +57,9 @@ h6 {
 }
 
 .intro-message > h3 {
+   color: black;
+    font-weight: 200;
+
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
@@ -123,6 +129,8 @@ h6 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 3em;
+    color: black;
+    font-weight: 200;
 }
 
 .banner ul {

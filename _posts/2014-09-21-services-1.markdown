@@ -2,7 +2,15 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: The Project
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Architecture is not always permanent. Erosive building materials, rapid modernization
+and -- most recently in places like Syria and Iraq -- war, all play critical roles in
+determining the survival and legacy of vernacular architecture. With this in mind, it
+is our aim to document pervasive patterns in monumental Central Asian architecture
+and tile-work that have survived. By preserving the rich history of the art we
+can make it accessible to the current day architect through an open source Grasshopper
+plug-in for easy panelization of tessellated tile patterns. This process will
+both create a record of these works for future generations as well as allow them to
+be translated into something completely modern and malleable.

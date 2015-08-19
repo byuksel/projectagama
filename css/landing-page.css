@@ -22,8 +22,8 @@ h6 {
 }
 
 .lead {
-    font-size: 18px;
-    font-weight: 400;
+    font-size: 12px;
+    font-weight: 300;
 }
 
 .intro-header {
@@ -101,6 +101,9 @@ h6 {
 
 .section-heading {
     margin-bottom: 30px;
+    color: #BF5FFF;
+    font-size: 18px;
+    font-weight: 300;
 }
 
 .section-heading-spacer {

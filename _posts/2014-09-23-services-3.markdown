@@ -2,7 +2,12 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: The Inspiration
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+There are countless ways we have been inspired in the process of developing a
+travel schedule. Instagram, recently, has been a way for us to collect some of our
+favorite images from across the web in one place.
+
+
+Thank you to the Center for Architecture for making this project possible.

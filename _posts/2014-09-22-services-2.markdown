@@ -2,9 +2,10 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: The Team
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+While New York City is a vast network of some of the most tallented and intelligent
+people in the world, specilization seems to rule. Lauren, Baris and Alexis decided
+to team up switching gears from their traditional roles in architecture and software
+engineering to collaborate and produce something more than the sum of it’s parts.

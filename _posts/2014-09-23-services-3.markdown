@@ -10,4 +10,4 @@ travel schedule. Instagram, recently, has been a way for us to collect some of o
 favorite images from across the web in one place.
 
 
-Thank you to the Center for Architecture for making this project possible.
+Thank you to the [Center for Architecture](http://cfa.aiany.org/) for making this project possible.

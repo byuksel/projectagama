@@ -1,1 +1,10 @@
+# Ignore local jekyll output
 _site
+.sass-cache
+**/.DS_Store
+node_modules
+# Ignore Emacs autosaves of older versions
+**/*~
+# Ignore Emacs auto rescue files
+**/#*#
+**/.#*
